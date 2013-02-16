@@ -14,15 +14,15 @@ Time and date pickers will do all the work for you. Custom picker is where you w
 Of course, I created this for my use in a Phonegap mobile app and so some things may not make sense to you. If you would like to improve something in this script, contribute, 
 report bugs, write tests etc., do let me know.
 
-## Usage
+# Usage
 
-# Javascript
+## Javascript
 ```
 <script type="text/javascript" src="spinningwheel.js"></script>
 <script type="text/javascript" src="scrollwheel.wrapper.js"></script>
 ```
 
-# CSS
+## CSS
 ```
 <link rel="stylesheet" type="text/css" href="assets/css/spinningwheel.css"/>
 ```
